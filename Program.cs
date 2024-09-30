@@ -103,22 +103,12 @@ static void PepperoniSlice(){
     Random rnd = new Random();
     int num = rnd.Next(8, 13);
 
-    int [] pepperoniRow = new int[num];
-    int [] pepperoniCol = new int[num];
-
-    for (int i = 0; i<3 ; i++){
-        pepperoniRow[i] = rnd.Next(1, (num-1));
-        pepperoniCol[i] = rnd.Next(1, (num-1));
-    }
     
 
     for (int i = num; i >=  0; i--){
         for (int j = 0; j < i; j++){
             if(i == num || j == 0 || j == (i-1)){
                 Console.Write("* ");
-            }
-            else if(i == pepperoniRow[i] || j == pepperoniCol[j]){
-                Console.Write("[] ");
             }
             else{
                 Console.Write("# ");
