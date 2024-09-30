@@ -1,0 +1,15 @@
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.AssemblyInfoInputs.cache
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.AssemblyInfo.cs
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.csproj.CoreCompileInputs.cache
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.sourcelink.json
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\bin\Debug\net8.0\mis-221-lab-4-emndicu.exe
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\bin\Debug\net8.0\mis-221-lab-4-emndicu.deps.json
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\bin\Debug\net8.0\mis-221-lab-4-emndicu.runtimeconfig.json
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\bin\Debug\net8.0\mis-221-lab-4-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\bin\Debug\net8.0\mis-221-lab-4-emndicu.pdb
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\refint\mis-221-lab-4-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.pdb
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\mis-221-lab-4-emndicu.genruntimeconfig.cache
+C:\Users\edndi\Desktop\221f2024\labs\mis-221-lab-4-emndicu\obj\Debug\net8.0\ref\mis-221-lab-4-emndicu.dll
