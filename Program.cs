@@ -107,8 +107,13 @@ static void PepperoniSlice(){
 
     for (int i = num; i >=  0; i--){
         for (int j = 0; j < i; j++){
+
+            int pepperoni = rnd.Next(1, num);
             if(i == num || j == 0 || j == (i-1)){
                 Console.Write("* ");
+            }
+            else if( pepperoni > 10){
+                Console.Write("[]");
             }
             else{
                 Console.Write("# ");
@@ -120,6 +125,8 @@ static void PepperoniSlice(){
     }
 
     Pause();
+
+
 
 
 }
